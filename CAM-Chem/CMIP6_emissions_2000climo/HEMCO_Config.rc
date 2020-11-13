@@ -1216,21 +1216,21 @@ Warnings:                    1
 0 CEDS_C6H14_SLV  $ROOT/CEDS/v2018-08/$YYYY/ALK4_hexanes-em-anthro_CMIP_CEDS_$YYYY.nc  ALK4_hexanes_slv  1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
 0 CEDS_C6H14_WST  $ROOT/CEDS/v2018-08/$YYYY/ALK4_hexanes-em-anthro_CMIP_CEDS_$YYYY.nc  ALK4_hexanes_wst  1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
 
-0 CEDS_ESTERS_AGR $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_agr        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
-0 CEDS_ESTERS_ENE $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_ene        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
-0 CEDS_ESTERS_IND $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_ind        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
-0 CEDS_ESTERS_TRA $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_tra        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
-0 CEDS_ESTERS_RCO $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_rco        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
-0 CEDS_ESTERS_SLV $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_slv        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
-0 CEDS_ESTERS_WST $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_wst        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ESTERS_AGR $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_agr        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ESTERS_ENE $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_ene        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ESTERS_IND $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_ind        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ESTERS_TRA $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_tra        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ESTERS_RCO $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_rco        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ESTERS_SLV $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_slv        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ESTERS_WST $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ESTERS_wst        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
 
-0 CEDS_ETHERS_AGR $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_agr        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
-0 CEDS_ETHERS_ENE $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_ene        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
-0 CEDS_ETHERS_IND $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_ind        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
-0 CEDS_ETHERS_TRA $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_tra        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
-0 CEDS_ETHERS_RCO $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_rco        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
-0 CEDS_ETHERS_SLV $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_slv        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
-0 CEDS_ETHERS_WST $ROOT/CEDS/v2018-08/$YYYY/ESTERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_wst        1750-2014/1-12/1/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ETHERS_AGR $ROOT/CEDS/v2018-08/$YYYY/ETHERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_agr        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ETHERS_ENE $ROOT/CEDS/v2018-08/$YYYY/ETHERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_ene        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ETHERS_IND $ROOT/CEDS/v2018-08/$YYYY/ETHERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_ind        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ETHERS_TRA $ROOT/CEDS/v2018-08/$YYYY/ETHERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_tra        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ETHERS_RCO $ROOT/CEDS/v2018-08/$YYYY/ETHERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_rco        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ETHERS_SLV $ROOT/CEDS/v2018-08/$YYYY/ETHERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_slv        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
+0 CEDS_ETHERS_WST $ROOT/CEDS/v2018-08/$YYYY/ETHERS-em-anthro_CMIP_CEDS_$YYYY.nc        ETHERS_wst        1750-2014/1-12/16/0 C xy kg/m2/s BIGALK  26        1 5
 
 0 CEDS_C2H4_AGR   $ROOT/CEDS/v2018-08/$YYYY/C2H4-em-anthro_CMIP_CEDS_$YYYY.nc          C2H4_agr          1750-2014/1-12/1/0 C xy kg/m2/s C2H4  26        1 5
 0 CEDS_C2H4_ENE   $ROOT/CEDS/v2018-08/$YYYY/C2H4-em-anthro_CMIP_CEDS_$YYYY.nc          C2H4_ene          1750-2014/1-12/1/0 C xy kg/m2/s C2H4  26        1 5
@@ -3145,8 +3145,8 @@ Warnings:                    1
 987 CESM_SO4a2_VOL  0.5      - - - xy 1 1
 
 # Convert CEDS total alcohols to methanol and ethanol following Emmons et al. (2020, JAMES)
-990 VOC1toMOH 0.15 - - - xy 1 1
-991 VOC1toEOH 0.85 - - - xy 1 1
+990 CESM_VOC1toMOH 0.15 - - - xy 1 1
+991 CESM_VOC1toEOH 0.85 - - - xy 1 1
 
 )))EMISSIONS
 
