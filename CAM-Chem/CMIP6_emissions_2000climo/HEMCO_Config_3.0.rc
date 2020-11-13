@@ -1119,22 +1119,24 @@ Warnings:                    1
 0 CEDS_SO2_AGR    $ROOT/CEDS/v2020-08/$YYYY/SO2-em-total-anthro_CEDS_$YYYY.nc           SO2_agr            1970-2017/1-12/1/0 C xy kg/m2/s SO2      -      1 5
 0 CEDS_SO4_AGR    -                                                                     -                  -                  - -  -       so4_a1   902    1 5
 
-# Note hplin: Industrial, energy so4_a2 need to be distributed 100-300m according to Emmons et al., 2020
+# Note hplin: Industrial, energy so4_a1 need to be distributed 100-300m according to Emmons et al., 2020
 0 CEDS_SO2_ENE    $ROOT/CEDS/v2020-08/$YYYY/SO2-em-total-anthro_CEDS_$YYYY.nc           SO2_ene            1970-2017/1-12/1/0 C xyL=100m:300m kg/m2/s SO2      -      1 5
 0 CEDS_SO4_ENE    -                                                                     -                  -                  - -  -                  so4_a1   907    1 5
 0 CEDS_SO2_IND    $ROOT/CEDS/v2020-08/$YYYY/SO2-em-total-anthro_CEDS_$YYYY.nc           SO2_ind            1970-2017/1-12/1/0 C xyL=100m:300m kg/m2/s SO2      -      1 5
 0 CEDS_SO4_IND    -                                                                     -                  -                  - -  -                  so4_a1   908    1 5
 
+# RCO, TRA go into so4_a2 and not so4_a1
 0 CEDS_SO2_NRTR   $ROOT/CEDS/v2020-08/$YYYY/SO2-em-total-anthro_CEDS_$YYYY.nc           SO2_nrtr           1970-2017/1-12/1/0 C xy kg/m2/s SO2      -      1 5
-0 CEDS_SO4_NRTR   -                                                                     -                  -                  - -  -       so4_a1   906    1 5
+0 CEDS_SO4_NRTR   -                                                                     -                  -                  - -  -       so4_a2   906    1 5
 0 CEDS_SO2_ROAD   $ROOT/CEDS/v2020-08/$YYYY/SO2-em-total-anthro_CEDS_$YYYY.nc           SO2_road           1970-2017/1-12/1/0 C xy kg/m2/s SO2      -      1 5
-0 CEDS_SO4_ROAD   -                                                                     -                  -                  - -  -       so4_a1   906    1 5
+0 CEDS_SO4_ROAD   -                                                                     -                  -                  - -  -       so4_a2   906    1 5
 0 CEDS_SO2_RCOR   $ROOT/CEDS/v2020-08/$YYYY/SO2-em-total-anthro_CEDS_$YYYY.nc           SO2_rcor           1970-2017/1-12/1/0 C xy kg/m2/s SO2      -      1 5
-0 CEDS_SO4_RCOR   -                                                                     -                  -                  - -  -       so4_a1   905    1 5
+0 CEDS_SO4_RCOR   -                                                                     -                  -                  - -  -       so4_a2   905    1 5
 0 CEDS_SO2_RCOC   $ROOT/CEDS/v2020-08/$YYYY/SO2-em-total-anthro_CEDS_$YYYY.nc           SO2_rcoc           1970-2017/1-12/1/0 C xy kg/m2/s SO2      -      1 5
-0 CEDS_SO4_RCOC   -                                                                     -                  -                  - -  -       so4_a1   905    1 5
+0 CEDS_SO4_RCOC   -                                                                     -                  -                  - -  -       so4_a2   905    1 5
 0 CEDS_SO2_RCOO   $ROOT/CEDS/v2020-08/$YYYY/SO2-em-total-anthro_CEDS_$YYYY.nc           SO2_rcoo           1970-2017/1-12/1/0 C xy kg/m2/s SO2      -      1 5
-0 CEDS_SO4_RCOO   -                                                                     -                  -                  - -  -       so4_a1   905    1 5
+0 CEDS_SO4_RCOO   -                                                                     -                  -                  - -  -       so4_a2   905    1 5
+
 0 CEDS_SO2_SLV    $ROOT/CEDS/v2020-08/$YYYY/SO2-em-total-anthro_CEDS_$YYYY.nc           SO2_slv            1970-2017/1-12/1/0 C xy kg/m2/s SO2      -      1 5
 0 CEDS_SO4_SLV    -                                                                     -                  -                  - -  -       so4_a1   904    1 5
 0 CEDS_SO2_WST    $ROOT/CEDS/v2020-08/$YYYY/SO2-em-total-anthro_CEDS_$YYYY.nc           SO2_wst            1970-2017/1-12/1/0 C xy kg/m2/s SO2      -      1 5
