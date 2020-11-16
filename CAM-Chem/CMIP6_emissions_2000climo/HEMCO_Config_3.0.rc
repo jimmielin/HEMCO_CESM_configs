@@ -1973,7 +1973,7 @@ Warnings:                    1
 0 CEDS_TOLU_SHP   $ROOT/CEDS/v2020-08/$YYYY/TOLU-em-total-anthro_CEDS_$YYYY.nc          TOLU_shp           1970-2017/1-12/1/0 C xy kg/m2/s TOLUENE  26      10 5
 0 CEDS_XYLE_SHP   $ROOT/CEDS/v2020-08/$YYYY/XYLE-em-total-anthro_CEDS_$YYYY.nc          XYLE_shp           1970-2017/1-12/1/0 C xy kg/m2/s XYLENES  26      10 5
 0 CEDS_TMB_SHP    $ROOT/CEDS/v2020-08/$YYYY/TMB-em-total-anthro_CEDS_$YYYY.nc           TMB_shp            1970-2017/1-12/1/0 C xy kg/m2/s XYLENES  26      10 5
-0 CEDS_OTAR_SHP   $ROOT/CEDS/v2020-08/$YYYY/OTHER_AROM-em-total-anthro_CEDS_$YYYY.nc    OTAR_shp           1970-2017/1-12/1/0 C xy kg/m2/s XYLENES  26      10 5
+0 CEDS_OTAR_SHP   $ROOT/CEDS/v2020-08/$YYYY/OTHER_AROM-em-total-anthro_CEDS_$YYYY.nc    OTHER_AROM_shp     1970-2017/1-12/1/0 C xy kg/m2/s XYLENES  26      10 5
 0 CEDS_CH2O_SHP   $ROOT/CEDS/v2020-08/$YYYY/CH2O-em-total-anthro_CEDS_$YYYY.nc          CH2O_shp           1970-2017/1-12/1/0 C xy kg/m2/s CH2O     26      10 5
 0 CEDS_ALD2_SHP   $ROOT/CEDS/v2020-08/$YYYY/ALD2-em-total-anthro_CEDS_$YYYY.nc          ALD2_shp           1970-2017/1-12/1/0 C xy kg/m2/s CH3CHO   26      10 5
 0 CEDS_MEK_SHP    $ROOT/CEDS/v2020-08/$YYYY/MEK-em-total-anthro_CEDS_$YYYY.nc           MEK_shp            1970-2017/1-12/1/0 C xy kg/m2/s MEK      26/911  10 5
