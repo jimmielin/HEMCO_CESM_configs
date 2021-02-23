@@ -2135,7 +2135,7 @@ Warnings:                    1
 0 AEIC_CO   $ROOT/AEIC/v2015-01/AEIC.47L.gen.1x1.nc  CO       2005/1-12/1/0 C xyz kg/m2/s CO       110     20 1
 0 AEIC_SO2  $ROOT/AEIC/v2015-01/AEIC.47L.gen.1x1.nc  FUELBURN 2005/1-12/1/0 C xyz kg/m2/s SO2      111     20 1
 0 AEIC_SO4  -                                        -        -             - -   -       so4_a1   112     20 1
-0 AEIC_BC   -                                        -        -             - -   -       pom_a4   113     20 1
+0 AEIC_BC   -                                        -        -             - -   -       bc_a4    113     20 1
 
 0 AEIC_ACET $ROOT/AEIC/v2015-01/AEIC.47L.gen.1x1.nc  HC       2005/1-12/1/0 C xyz kg/m2/s CH3COCH3 114/101 20 1
 0 AEIC_ALD2 -                                        -        -             - -   -       CH3CHO   114/102 20 1
