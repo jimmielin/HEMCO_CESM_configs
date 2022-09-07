@@ -122,7 +122,7 @@ These replacements come with caveats.
 
 * PRPE -> C3H6. Actually, GEOS-Chem PRPE is lumped >= C3 alkenes and not exactly C3H6.
 * ALK4 -> BIGALK. Note that the number of carbons does not exactly align between GEOS-Chem ALK4 (Lumped >= C4 Alkanes) and CAM-chem BIGALK.
-* SO4 -> `so4_a1` or `so4_a2`. For residential and transportation and volcanoes, use `so4_a2`. Otherwise, `so4_a1`.
+* SO4 -> `so4_a1` or `so4_a2`. For residential and transportation and volcanoes, use `so4_a2`. Otherwise, `so4_a1`. Careful not to use `63` and `890x` at the same time, they serve the same purpose to scale SO2 to SO4 in CEDS and CEDSv2.
 
 ### MOH, EOH, ROH
 

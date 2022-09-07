@@ -2694,7 +2694,7 @@ Warnings:                    1
 0 CEDS_CO_SHP     $ROOT/CEDS/v2021-06/$YYYY/CO-em-anthro_CMIP_CEDS_$YYYY.nc            CO_shp            1750-2019/1-12/1/0 C xy kg/m2/s CO    26     10 5
 0 CEDS_SOAP_SHP   -                                                                    -                 -                  - -  -       SOAP  26/280 10 5
 0 CEDS_SO2_SHP    $ROOT/CEDS/v2021-06/$YYYY/SO2-em-anthro_CMIP_CEDS_$YYYY.nc           SO2_shp           1750-2019/1-12/1/0 C xy kg/m2/s SO2   -      10 5
-0 CEDS_SO4_SHP    -                                                                    -                 -                  - -  -       SO4   63     10 5
+0 CEDS_SO4_SHP    -                                                                    -                 -                  - -  -       so4_a1   8909     10 5
 0 CEDS_pFe_SHP    -                                                                    -                 -                  - -  -       pFe   66     10 5
 0 CEDS_NH3_SHP    $ROOT/CEDS/v2021-06/$YYYY/NH3-em-anthro_CMIP_CEDS_$YYYY.nc           NH3_shp           1750-2019/1-12/1/0 C xy kg/m2/s NH3   -      10 5
 0 CEDS_BCPI_SHP   $ROOT/CEDS/v2021-06/$YYYY/BC-em-anthro_CMIP_CEDS_$YYYY.nc            BC_shp            1750-2019/1-12/1/0 C xy kg/m2/s BCPI  70     10 5
