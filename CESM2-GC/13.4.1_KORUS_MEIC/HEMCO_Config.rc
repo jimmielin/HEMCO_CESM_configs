@@ -29,7 +29,7 @@ ROOT:                        /glade/p/univ/umit0034/ExtData/HEMCO
 METDIR:                      /n/holyscratch01/external_repos/GEOS-CHEM/gcgrid/data/ExtData/GEOS_2x2.5/MERRA2
 GCAP2SCENARIO:               not_used
 GCAP2VERTRES:                47
-Logfile:                     HEMCO.log
+Logfile:                     *
 DiagnFile:                   HEMCO_Diagn.rc
 DiagnPrefix:                 ./OutputDir/HEMCO_diagnostics
 DiagnFreq:                   Monthly
